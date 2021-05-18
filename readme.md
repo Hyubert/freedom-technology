@@ -1,6 +1,6 @@
 # To view projects
 
-[home](https://hyubert.github.io/freedom-technology/index.html)
+[home](https://alexrusyn.github.io/freedom-technology/index.html)
 
 ### USE:
 
